@@ -1,7 +1,16 @@
-import { greetUser } from '$utils/greet';
-
-window.Webflow ||= [];
-window.Webflow.push(() => {
-  const name = 'John Doe';
-  greetUser(name);
-});
+import { carroselHome } from '$utils/carroselHome';
+import { centralGp } from '$utils/centralGp';
+import { culturaAnimation } from '$utils/culturaAnimation';
+import { dropdownAnimation } from '$utils/dropdownAnimation';
+import { homeAnimation } from '$utils/homeAnimation';
+import { navAnimation } from '$utils/navAnimation';
+import { sliderContent } from '$utils/sliderContent';
+import { textAnimation } from '$utils/textAnimation';
+carroselHome();
+navAnimation();
+homeAnimation();
+textAnimation();
+culturaAnimation();
+dropdownAnimation();
+centralGp();
+sliderContent();
