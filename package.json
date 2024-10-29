@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
-  "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
+  "name": "@joaolucas/grupo-primo",
+  "version": "1.0.0",
+  "description": "Site institucional do Grupo Primo",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Grupo Primo",
+    "url": "https://grupo-primo.com"
   },
   "repository": {
     "type": "git",
